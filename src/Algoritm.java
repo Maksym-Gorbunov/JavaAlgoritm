@@ -36,6 +36,7 @@ public class Algoritm {
         System.out.println(Arrays.toString(arr));
     }
 
+    // Quick sort
     public static void quickSort(){
         int start = 0;
         int end = array.length-1;
