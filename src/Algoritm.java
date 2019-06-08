@@ -67,4 +67,6 @@ public class Algoritm {
         doSort(start, cur);
         doSort(cur+1, end);
     }
+
+    // New algoritm here
 }
