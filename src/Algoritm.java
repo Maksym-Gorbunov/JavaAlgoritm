@@ -69,4 +69,5 @@ public class Algoritm {
     }
 
     // New algoritm here
+    //ttoDo...
 }
