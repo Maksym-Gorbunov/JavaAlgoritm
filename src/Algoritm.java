@@ -68,8 +68,9 @@ public class Algoritm {
         doSort(cur+1, end);
     }
 
-    // New algoritm here
     //ttoDo...
+    // New algoritm here
+    // New algoritm here
     //ttoDo...
     //ttoDo...EyeStudio Startad
 }
