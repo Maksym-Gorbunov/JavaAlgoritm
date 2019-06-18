@@ -22,7 +22,7 @@ public class Algoritm {
         return divide(b, c);
     }
 
-    // {6,3,7,2,14} => [2, 3, 6, 7, 14]
+    // {6,3,7,2,14} => [2, 3, 6, 7, 14]   Classisc bubble sort
     public static void bubbleSort(int arr[]){
         for(int i=arr.length-1; i>=0; i--){
             for(int j = 0; j<i; j++){
